@@ -154,7 +154,7 @@
             <mxPoint x="540" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOpL3Uu9Zfj7eHUosngo-0" value="图像特征向量两两比较" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IOpL3Uu9Zfj7eHUosngo-0" value="图像存入对应路径" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="680" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IOpL3Uu9Zfj7eHUosngo-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -162,6 +162,9 @@
             <mxPoint x="470" y="699.5" as="sourcePoint" />
             <mxPoint x="540" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IOpL3Uu9Zfj7eHUosngo-2" value="&lt;b&gt;No&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
